@@ -14,8 +14,8 @@ We believe software, like fruit, needs to be grown with care — not just shippe
 
 | | |
 |---|---|
-| **[orchard-ops](https://github.com/orchardworks/orchard-ops-mcp)** | Manage and configure scheduled tasks on macOS |
-| **[FlintDB](https://github.com/orchardworks/flintdb-docs)** | A modern local database built for analysis |
+| **[Orchard Ops](https://orchard-ops.com)** | Manage and configure scheduled tasks on macOS |
+| **[FlintDB](https://docs.flintdb.dev)** | A modern local database built for analysis |
 
 ### Links
 
