@@ -16,6 +16,7 @@ We believe software, like fruit, needs to be grown with care — not just shippe
 |---|---|
 | **[Orchard Ops](https://orchard-ops.com)** | Manage and configure scheduled tasks on macOS |
 | **[FlintDB](https://docs.flintdb.dev)** | A modern local database built for analysis |
+| **[Finder Pane](https://orchardworks.dev/finder-pane/)** | A visual file browser pane for your terminal |
 
 ### Links
 
